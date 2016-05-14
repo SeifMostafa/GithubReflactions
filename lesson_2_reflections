@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+new file ( .git ) is created , new repo. which will hold my files , its branches and update nodes will be done. to be able to back any node i wanna back to.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is between working directory and repository, working directory is the current folder which i am working in , repo is the done files included in.

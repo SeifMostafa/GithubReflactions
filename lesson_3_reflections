@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 fork:clone between repo's online , clone : clone between repo's online / offline , branches: take other way far of master way to do some thing
 will use fork with the other's works , clone with my own work either other's work but i cloned into my account or my real work
 , will use branches to do any thing new such as a new experiments , fixing typos , adding new features or trying something strange.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+for attaching and update processes when we pull and merge ( fast forward )

@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 working on teams !
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 sometimes we are working within huge projects which have many things which are split into tasks for teams each team has no idea about other team work
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork:clone between repo's online , clone : clone between repo's online / offline , branches: take other way far of master way to do some thing
+will use fork with the other's works , clone with my own work either other's work but i cloned into my account or my real work
+, will use branches to do any thing new such as a new experiments , fixing typos , adding new features or trying something strange.

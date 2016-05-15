@@ -3,3 +3,19 @@ new file ( .git ) is created , new repo. which will hold my files , its branches
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is between working directory and repository, working directory is the current folder which i am working in , repo is the done files included in.
+
+How can you use the staging area to make sure you have one commit per logical change?
+git add my modified works to it , then i push it one by one .. commit by commit , if that's required.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+in game levels , different languages , adding new features ..etc. branches help to keep the main track safe and my shitts beside it
+
+How do the diagrams help you visualize the branch structure?
+it sort the commits i did by date
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+getting them in one branch , something like split the tasks into subtaskts to my team then gathering them in one master branch :D
+to see which finished before which , to make the containing process easier
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+maybe mistakes be included in master.. manually,gives the remote control for me.
